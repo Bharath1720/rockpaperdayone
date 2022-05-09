@@ -1,0 +1,29 @@
+.res-img {
+  height: 250px;
+}
+.result-display-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.one {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 200px;
+}
+.two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result-primary {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

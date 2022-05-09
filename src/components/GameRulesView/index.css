@@ -1,0 +1,9 @@
+.image-sizing {
+  height: 250px;
+}
+.button-image {
+  background-color: transparent;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
